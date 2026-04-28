@@ -1,3 +1,6 @@
+<img width="845" height="377" alt="image" src="https://github.com/user-attachments/assets/159916fc-1ce2-4cab-9483-6af6c57c946f" />
+
+
 # CRUD de Gestión de Funcionarios - Desarrollo de software seguro - IU Digital Antioquia
 
 Este proyecto es una aplicación de escritorio desarrollada en **Java Swing** para la gestión de funcionarios. Implementa una arquitectura por capas utilizando el patrón de diseño **DAO (Data Access Object)** para garantizar un código limpio, mantenible y escalable.
