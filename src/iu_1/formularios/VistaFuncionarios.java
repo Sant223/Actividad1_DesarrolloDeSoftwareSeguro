@@ -357,7 +357,7 @@ public class VistaFuncionarios extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_botonEliminarActionPerformed
 
-    
+    // ... después de tus métodos de los botones ...
     public final void cargarTabla() {
         // Definimos las columnas que queremos ver en la interfaz
         DefaultTableModel modelo = new DefaultTableModel();
